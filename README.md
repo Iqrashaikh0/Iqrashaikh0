@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Iqra shaikh
 - 👀 I’m interested in programming languages 
-- 🌱 I’m currently learning core java
+- 🌱 I’m currently learning advanced java
 
 
 <!---
